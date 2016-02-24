@@ -1,6 +1,7 @@
 # Customer - Müşteri Takip
 Müşteri Takip Programı, Laravel 5.1
-Migrations ile kurulumunuzu yapabilirsiniz.
+Migrations ile kurulumunuzu yapabilirsiniz. 
+Örnek veritabanı dosyasını SQL.sql olarak proje ana dizininde mevcuttur.
 # Laravel Hakkında
 Laravel 5.1 kurulumunuz yapıp veritabanınız oluşturduktan sonra projeyi indirip dosyaları üzerine atıp kullanabilirsiniz.
 # Önizleme
