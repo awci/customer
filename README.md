@@ -34,3 +34,6 @@ komutumuzu konsola yazdıktan sonra programı kullanmaya başlayabiliriz. :)
 ![Customer](http://indir.astald.com/dosyalar/screen-kopya-2_db_56cd79dfe7f86.png)
 ![Customer](http://indir.astald.com/dosyalar/screen-kopya-kopya_db_56cd79dfe7c6c.png)
 ![Customer](http://indir.astald.com/dosyalar/screen-kopya-kopya-kopya_db_56cd79dfde581.png)
+
+# Bilgi
+Kullandığınız için teşekkürler.
