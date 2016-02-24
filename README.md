@@ -7,7 +7,7 @@ Laravel 5.1 kurulumunuz yapıp veritabanınız oluşturduktan sonra projeyi indi
 
 # Kurulum
 Konsoldan laravel 5.1 sürümününun kurulumunu yapıyoruz
-**composer create-project laravel/laravel blog "5.1.*"**
+**composer create-project laravel/laravel customer "5.1.*"**
 Ardından dosyayı indiriyoruz; 
 https://github.com/osmanyilmazco/customer/archive/master.zip
 Laravel 5.1 kurulumunu yapmış olduğumuz klasörün içine indirdimiz dosyalarımızı yapıştırıyoruz.
