@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Astald
+        psr4_prefix: Astald
+        src_path: app
