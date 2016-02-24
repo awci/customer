@@ -6,14 +6,14 @@ Migrations ile kurulumunuzu yapabilirsiniz.
 Laravel 5.1 kurulumunuz yapıp veritabanınız oluşturduktan sonra projeyi indirip dosyaları üzerine atıp kullanabilirsiniz.
 
 # Kurulum
-```Uzun Kurulum: ```
+### Uzun Kurulum:
 Konsoldan laravel 5.1 sürümününun kurulumunu yapıyoruz
 ```composer create-project laravel/laravel customer "5.1.*"```
 Ardından dosyayı indiriyoruz; 
 **https://github.com/osmanyilmazco/customer/archive/master.zip**
 Laravel 5.1 kurulumunu yapmış olduğumuz klasörün içine indirdimiz dosyalarımızı yapıştırıyoruz.
 En son olarak composer.json içindede belirtilen eklentilerin kurulumununda yapılması için konsoldan projenin klasörüne girip ```composer install``` Komutunu yazdırıyoruz
-```Kısa Kurulum: ```
+### Kısa Kurulum:
 **https://github.com/osmanyilmazco/customer/archive/master.zip** 
 Dosyayı indirip localhost'a atıyoruz ve konsoldan ```composer install``` Komutunu yazdırıyoruz
 ## Veritabanı Kurulumu
