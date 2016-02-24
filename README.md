@@ -5,4 +5,8 @@ Migrations ile kurulumunuzu yapabilirsiniz.
 # Laravel Hakkında
 Laravel 5.1 kurulumunuz yapıp veritabanınız oluşturduktan sonra projeyi indirip dosyaları üzerine atıp kullanabilirsiniz.
 # Önizleme
-![Localhost After](http://indir.astald.com/dosyalar/screen_db_56cd781b15696.png)
+![Customer](http://indir.astald.com/dosyalar/screen_db_56cd781b15696.png)
+![Customer]http://indir.astald.com/dosyalar/screen-kopya-3_db_56cd79dfe815a.png)
+![Customer]http://indir.astald.com/dosyalar/screen-kopya-2_db_56cd79dfe7f86.png)
+![Customer]http://indir.astald.com/dosyalar/screen-kopya-kopya_db_56cd79dfe7c6c.png)
+![Customer]http://indir.astald.com/dosyalar/screen-kopya-kopya-kopya_db_56cd79dfde581.png)
