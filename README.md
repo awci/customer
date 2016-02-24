@@ -30,7 +30,7 @@ DB_PASSWORD=
 ```
 php artisan migrate
 ```
-komutumuzu konsola yazdıktan sonra programı kullanmaya başlayabiliriz. :)
+komutumuzu konsola yazdıktan sonra sistemi kullanmaya başlayabiliriz. :)
 
 # Önizleme
 ![Customer](http://indir.astald.com/dosyalar/screen_db_56cd781b15696.png)
@@ -40,4 +40,6 @@ komutumuzu konsola yazdıktan sonra programı kullanmaya başlayabiliriz. :)
 ![Customer](http://indir.astald.com/dosyalar/screen-kopya-kopya-kopya_db_56cd79dfde581.png)
 
 # Bilgi
-Kullandığınız için teşekkürler.
+Anlayışınız için teşekkürler.
+
+www.astald.com
