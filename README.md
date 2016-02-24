@@ -11,8 +11,14 @@ Konsoldan laravel 5.1 sürümününun kurulumunu yapıyoruz
 Ardından dosyayı indiriyoruz; 
 https://github.com/osmanyilmazco/customer/archive/master.zip
 Laravel 5.1 kurulumunu yapmış olduğumuz klasörün içine indirdimiz dosyalarımızı yapıştırıyoruz.
-En son olarak composer.json içindede belirtilen eklentilerin kurulumununda yapılması için konsoldan projenin klasörüne girip **composer install**
-Komutunu yazdırıyoruz
+En son olarak composer.json içindede belirtilen eklentilerin kurulumununda yapılması için konsoldan projenin klasörüne girip **composer install** Komutunu yazdırıyoruz
+## Veritabanı Kurulumu
+kök dizindeki **.env** dosyasının içine veritabanı bilgilerimizi yazıyoruz
+**Örnek bağlantı**
+DB_HOST=localhost
+DB_DATABASE=laravel5_customer
+DB_USERNAME=root
+DB_PASSWORD=
 
 
 # Önizleme
