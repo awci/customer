@@ -4,6 +4,17 @@ Migrations ile kurulumunuzu yapabilirsiniz.
 Örnek veritabanı dosyasını SQL.sql olarak proje ana dizininde mevcuttur.
 # Laravel Hakkında
 Laravel 5.1 kurulumunuz yapıp veritabanınız oluşturduktan sonra projeyi indirip dosyaları üzerine atıp kullanabilirsiniz.
+
+# Kurulum
+Konsoldan laravel 5.1 sürümününun kurulumunu yapıyoruz
+**composer create-project laravel/laravel blog "5.1.*"**
+Ardından dosyayı indiriyoruz; 
+https://github.com/osmanyilmazco/customer/archive/master.zip
+Laravel 5.1 kurulumunu yapmış olduğumuz klasörün içine indirdimiz dosyalarımızı yapıştırıyoruz.
+En son olarak composer.json içindede belirtilen eklentilerin kurulumununda yapılması için konsoldan projenin klasörüne girip **composer install**
+Komutunu yazdırıyoruz
+
+
 # Önizleme
 ![Customer](http://indir.astald.com/dosyalar/screen_db_56cd781b15696.png)
 ![Customer](http://indir.astald.com/dosyalar/screen-kopya-3_db_56cd79dfe815a.png)
