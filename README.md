@@ -19,6 +19,8 @@ DB_HOST=localhost
 DB_DATABASE=laravel5_customer
 DB_USERNAME=root
 DB_PASSWORD=
+### En son olarak migrasyonların çalışması için
+**php artisan migrate** komutumuzu konsola yazdıktan sonra programı kullanmaya başlayabiliriz. :)
 
 
 # Önizleme
