@@ -12,7 +12,7 @@ Konsoldan laravel 5.1 sürümününun kurulumunu yapıyoruz
 Ardından dosyayı indiriyoruz; 
 **https://github.com/osmanyilmazco/customer/archive/master.zip**
 Laravel 5.1 kurulumunu yapmış olduğumuz klasörün içine indirdimiz dosyalarımızı yapıştırıyoruz.
-En son olarak composer.json içindede belirtilen eklentilerin kurulumununda yapılması için konsoldan projenin klasörüne girip ```composer install``` Komutunu yazdırıyoruz
+En son olarak composer.json içindede belirtilen eklentilerin kurulumununda yapılması için konsoldan projenin klasörüne girip ```composer install``` Komutunu yazıyoruz
 ### Kısa Kurulum:
 **https://github.com/osmanyilmazco/customer/archive/master.zip** 
 Dosyayı indirip localhost'a atıyoruz ve konsoldan ```composer install``` Komutunu yazdırıyoruz
