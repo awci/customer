@@ -16,7 +16,7 @@ En son olarak composer.json içindede belirtilen eklentilerin kurulumununda yap�
 ### Kısa Kurulum:
 **https://github.com/osmanyilmazco/customer/archive/master.zip** 
 Dosyayı indirip localhost'a atıyoruz ve konsoldan ```composer install``` Komutunu yazdırıyoruz
-## Veritabanı Kurulumu
+## Veritabanı Ayarları
 kök dizindeki **.env** dosyasının içine veritabanı bilgilerimizi yazıyoruz
 **Örnek bağlantı**
 ```
